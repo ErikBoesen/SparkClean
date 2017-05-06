@@ -1,0 +1,2 @@
+# sparkclean
+SparkNotes, sans trash.
